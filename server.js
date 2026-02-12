@@ -1,5 +1,3 @@
-comp-4001-module4-activity-2
-
 const express = require('express');
 const os = require('os');
 const path = require('path');
